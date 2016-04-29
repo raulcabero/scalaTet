@@ -1,0 +1,257 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anon$1.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$2.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$3.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4$$anonfun$sbt$GroovyTest$$anonfun$$anonfun$$readAPI$1$1.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$5.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$.class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest.class
+binary dependencies:
+19 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/api/jars/api-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/classfile/jars/classfile-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/classpath/jars/classpath-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/interface/jars/interface-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/org.scala-sbt/testing/jars/testing-0.13.9.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/jars/sbt-groovy-0.1.3.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /home/raul/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anon$1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$2
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$3
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$4
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$4$$anonfun$apply$1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$4$$anonfun$sbt$GroovyTest$$anonfun$$anonfun$$readAPI$1$1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt.GroovyTest$$anonfun$1$$anonfun$5
+used names:
+104 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> $anon
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> $p1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> **
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> ++
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> <init>
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> AList
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Analysis
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> AnalysisCallback
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Analyze
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Any
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> AnyRef
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Class
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> ClassToAPI
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> ClasspathUtilities
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> ConfigKey
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Def
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Default
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Empty
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> File
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> FullInstance
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> GroovyPlugin
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> GroovyTest
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> IncOptions
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> IncrementalCompile
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> InputWrapper
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Keys
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> None
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Nothing
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Predef
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Seq
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Set
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> SingleOutput
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> String
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Test
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> Tests
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _1
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _2
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _3
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _4
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _5
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _6
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> _root_
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> a0
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> api
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> app
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> apply
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> callback
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> canBuildFrom
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> classes
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> classfile
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> classpath
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> collection
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> compile
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> configurationToKey
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> data
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> definedTests
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> discover
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> frameworks
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> fullClasspath
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> get
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> getName
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> globFilter
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> groovySource
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> groovyTests
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> immutable
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> in
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> inc
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> inherits
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> loadedTestFrameworks
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> loader
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> log
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> macroValueI
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> macroValueIT
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> map
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> ne
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> old
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> org
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> out
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> package
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> plugins
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> process
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> readAPI
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> resourceManaged
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sLog
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> sbt
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> scala
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> singleFileFinder
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> softnetwork
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> source
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> srcs
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> task
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> testGroovy
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> toITask
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> toList
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> toLoader
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> toSet
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> tuple6
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> unchecked
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> value
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> values
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> wrapInitTask_☃☃
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> wrapInit_☃☃
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> xs
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> xsbti
+product stamps:
+10 items
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anon$1.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$2.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$3.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4$$anonfun$sbt$GroovyTest$$anonfun$$anonfun$$readAPI$1$1.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$4.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1$$anonfun$5.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$$anonfun$1.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest$.class -> lastModified(1461938716000)
+/home/raul/sbt-groovy-test/project/target/scala-2.10/sbt-0.13/classes/sbt/GroovyTest.class -> lastModified(1461938715000)
+source stamps:
+1 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> hash(f3a3cb2af2a4b3b99f212c73e497c8ba50ec5477)
+binary stamps:
+19 items
+/home/raul/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.9.jar -> lastModified(1439253274000)
+/home/raul/.ivy2/cache/org.scala-sbt/api/jars/api-0.13.9.jar -> lastModified(1439253108000)
+/home/raul/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> lastModified(1439253124000)
+/home/raul/.ivy2/cache/org.scala-sbt/classfile/jars/classfile-0.13.9.jar -> lastModified(1439253160000)
+/home/raul/.ivy2/cache/org.scala-sbt/classpath/jars/classpath-0.13.9.jar -> lastModified(1439253140000)
+/home/raul/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> lastModified(1439253119000)
+/home/raul/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.9.jar -> lastModified(1439253231000)
+/home/raul/.ivy2/cache/org.scala-sbt/interface/jars/interface-0.13.9.jar -> lastModified(1439253101000)
+/home/raul/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar -> lastModified(1439253134000)
+/home/raul/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar -> lastModified(1439253150000)
+/home/raul/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> lastModified(1439253272000)
+/home/raul/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> lastModified(1439253285000)
+/home/raul/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> lastModified(1439253291000)
+/home/raul/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> lastModified(1439253204000)
+/home/raul/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar -> lastModified(1372459476000)
+/home/raul/.ivy2/cache/org.scala-sbt/testing/jars/testing-0.13.9.jar -> lastModified(1439253188000)
+/home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/jars/sbt-groovy-0.1.3.jar -> lastModified(1413323146000)
+/home/raul/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425002069000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1453347731000)
+class names:
+19 items
+/home/raul/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.9.jar -> sbt.Tests$
+/home/raul/.ivy2/cache/org.scala-sbt/api/jars/api-0.13.9.jar -> sbt.ClassToAPI$
+/home/raul/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+/home/raul/.ivy2/cache/org.scala-sbt/classfile/jars/classfile-0.13.9.jar -> sbt.classfile.Analyze$
+/home/raul/.ivy2/cache/org.scala-sbt/classpath/jars/classpath-0.13.9.jar -> sbt.classpath.ClasspathUtilities$
+/home/raul/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> sbt.AList$
+/home/raul/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.9.jar -> sbt.inc.Analysis
+/home/raul/.ivy2/cache/org.scala-sbt/interface/jars/interface-0.13.9.jar -> xsbti.compile.SingleOutput
+/home/raul/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar -> sbt.PathLow
+/home/raul/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.9.jar -> sbt.Logger
+/home/raul/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> sbt.std.MacroValue
+/home/raul/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> sbt.Keys$
+/home/raul/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> sbt.package$
+/home/raul/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> sbt.Task
+/home/raul/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar -> sbt.testing.Framework
+/home/raul/.ivy2/cache/org.scala-sbt/testing/jars/testing-0.13.9.jar -> sbt.TestFramework
+/home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/jars/sbt-groovy-0.1.3.jar -> org.softnetwork.sbt.plugins.GroovyPlugin$
+/home/raul/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.Tuple2
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDYVwb8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFM+en10AAZub3RpZnlzcQB+AAyrgILxdAAEd2FpdHNxAH4ADJiruAN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhbqqonQABmVxdWFsc3NxAH4ADA2wRoB0AAxhc0luc3RhbmNlT2ZzcQB+AAzrsumtdAAMc3luY2hyb25pemVkc3EAfgAMsraz2nQADSRpc0luc3RhbmNlT2ZzcQB+AAyU458IdAAKR3Jvb3Z5VGVzdHNxAH4ADL+XiBV0AAtncm9vdnlUZXN0c3NxAH4ADIip9rh0AAlub3RpZnlBbGxzcQB+AAxhVYGcdAAMaXNJbnN0YW5jZU9mc3EAfgAM8P37rXQAAj09c3EAfgAM0f3p8XQABWNsb25lc3EAfgAMuBJeLnQACHRvU3RyaW5nc3EAfgAMKemg0XQAAiE9c3EAfgAMGA7es3QACGdldENsYXNzc3EAfgAMyGkEY3QAAm5lc3EAfgAMj3InNnQAAmVxc3EAfgAM3p8Op3QAAiMjc3EAfgAMPE4SPHQACGZpbmFsaXplc3EAfgAMTsoCMnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnNidC5Hcm9vdnlUZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANzYnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRiVmEGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9ob21lL3JhdWwvc2J0LWdyb292eS10ZXN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPOjyyrypLO5nyEsc+SXyLpQ7FR3
+external apis:
+0 items
+source infos:
+1 items
+/home/raul/sbt-groovy-test/project/GroovyTest.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVGJWYQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3JhdWwvc2J0LWdyb292eS10ZXN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=

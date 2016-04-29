@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="sbt-groovy-test-build"
+		revision="0.1-SNAPSHOT"
+		extra-sbtVersion="0.13"
+		extra-scalaVersion="2.10"
+		conf="compile"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20160429070455"/>
+	<dependencies>
+		<module organisation="org.softnetwork.sbt.plugins" name="sbt-groovy">
+			<revision name="0.1.3" status="release" pubdate="20141014144545" resolver="public" artresolver="public" homepage="https://github.com/fupelaqu/sbt-groovy" extra-sbtVersion="0.13" extra-scalaVersion="2.10" downloaded="true" searched="true" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<license name="MIT" url="http://opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="successful" details="" size="1807" time="498" location="/home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/ivy-0.1.3.xml" searched="true" original-local-location="/home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/ivy-0.1.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/softnetwork/sbt/plugins/sbt-groovy_2.10_0.13/0.1.3/sbt-groovy-0.1.3.pom"/>
+				<caller organisation="default" name="sbt-groovy-test-build" conf="compile" rev="0.1.3" rev-constraint-default="0.1.3" rev-constraint-dynamic="0.1.3" callerrev="0.1-SNAPSHOT" extra-sbtVersion="0.13" extra-scalaVersion="2.10"/>
+				<artifacts>
+					<artifact name="sbt-groovy" type="jar" ext="jar" status="successful" details="" size="52340" time="740" location="/home/raul/.ivy2/cache/scala_2.10/sbt_0.13/org.softnetwork.sbt.plugins/sbt-groovy/jars/sbt-groovy-0.1.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/softnetwork/sbt/plugins/sbt-groovy_2.10_0.13/0.1.3/sbt-groovy-0.1.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

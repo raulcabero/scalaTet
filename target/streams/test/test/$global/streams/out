@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(Foo, com.novocode.junit.JUnitFingerprint@147398c7, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(RestSpecification, com.novocode.junit.RunWithFingerprint@288485e9, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[31merror[0m] [0mFailed: Total 3, Failed 3, Errors 0, Passed 0[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	Foo[0m
+[0m[[31merror[0m] [0m	RestSpecification[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

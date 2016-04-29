@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/raul/sbt-groovy-test/target/scala-2.10/resource_managed/test/RestSpecification.class,/home/raul/sbt-groovy-test/target/scala-2.10/test-classes/RestSpecification.class)[0m
+[0m[[0mdebug[0m] [0m	(/home/raul/sbt-groovy-test/target/scala-2.10/resource_managed/test/Foo.class,/home/raul/sbt-groovy-test/target/scala-2.10/test-classes/Foo.class)[0m
